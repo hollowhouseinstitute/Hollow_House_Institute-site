@@ -4,69 +4,87 @@
 **Time turns behavior into infrastructure.**  
 **Behavior is the most honest data there is.**
 
-This repository is the official GitHub home for the **Hollow House Institute** public profile, identity, and professional documentation.
-
-Hollow House Institute is a **behavioral AI governance and compliance organization** specializing in longitudinal analysis of human and AI systems over time. We focus on detecting and quantifying systemic drift, decision substitution, escalation decay, and risk accumulation that emerge through repeated system use.
-
 ---
 
-## Core Mission
+## Canonical Notice (Temporary)
 
-Hollow House Institute provides:
-- Independent AI governance audits
-- Longitudinal risk infrastructure evaluation
-- Compliance review for ethically governed systems
-- Behavioral impact analysis across temporal use
+While the Hollow House Institute public website is offline, this repository serves as the **temporary canonical public authority** for Institute identity, scope, and governance references.
 
----
-
-## Proprietary Governance Framework
-
-### Longitudinal Relational Governance Framework™ (LRGF)
-A structured governance and audit system that converts repeated human and AI behavior into **auditable risk infrastructure**.
-
-**Foundational Doctrine**
-- Time turns behavior into infrastructure  
-- Behavior is the most honest data there is
-
----
-
-## Proprietary Metrics
-
-Hollow House Institute uses rigorously defined, proprietary metrics:
-
-- **Loyalty Load Index (LLI)** — measures harm absorbed to remain connected  
-- **Repair Integrity Score (RIS)** — distinguishes real change from cyclical repair  
-- **Identity Harm Severity (IHS)** — flags non-mitigable identity-level harm  
-- **Exit Cost Ratio (ECR)** — compares cost of leaving versus staying
-
-Each metric is formally defined in the Institute’s governance documentation.
-
----
-
-## Governance, Licensing & Use
-
-All intellectual property, data, and audit methodologies are governed under the **Hollow House Institute Master License Suite (HHI-MLS)**.
-
-Authoritative licensing and governance instruments are located in the GitHub repository:
+Authoritative licensing and governance instruments are maintained at:
 
 https://github.com/hollowhouseinstitute/Master_License_Suite
 
 ---
 
-## Contact & Access
+## Institute Mandate
 
-For inquiries about:
-- governance audits  
-- research access  
-- compliance engagement  
+Hollow House Institute is an independent governance and audit body focused on **longitudinal behavioral risk in AI systems**.
 
-Email: **data@hollowhouse.org**
+We examine how repeated AI use reshapes:
+- human judgment
+- escalation behavior
+- accountability assignment
+- organizational decision-making
+
+Our work addresses risks that do not appear in point-in-time reviews, static benchmarks, or model evaluations.
 
 ---
 
-## Legal
+## Core Focus Areas
 
-This README and associated content are provided for informational purposes only.  
-All rights reserved by Hollow House Institute.  
-Refer to the Master License Suite for binding terms of use.
+- Behavioral drift over time  
+- Decision substitution and confidence reinforcement  
+- Escalation decay and override erosion  
+- Normalization of workarounds  
+- Accumulated identity and governance harm  
+
+Behavior is treated as **auditable infrastructure**, not anecdotal signal.
+
+---
+
+## Governance Framework
+
+### Longitudinal Relational Governance Framework™
+
+A proprietary audit and governance framework that converts repeated human–AI interaction into **measurable, reviewable governance risk**.
+
+**Foundational Doctrine**
+- Time turns behavior into infrastructure  
+- Behavior is the most honest data there is  
+
+---
+
+## Proprietary Metrics
+
+Hollow House Institute uses defined, non-public metrics, including:
+
+- **Loyalty Load Index (LLI)**  
+- **Repair Integrity Score (RIS)**  
+- **Identity Harm Severity (IHS)**  
+- **Exit Cost Ratio (ECR)**  
+
+Metric definitions and usage are governed under the Master License Suite.
+
+---
+
+## Licensing & Use
+
+All materials, frameworks, metrics, and documentation are governed by the  
+**Hollow House Institute Master License Suite (HHI-MLS)**.
+
+No use is permitted by default.
+
+Authoritative licensing terms:
+https://github.com/hollowhouseinstitute/Master_License_Suite
+
+---
+
+## Contact
+
+Governance, audit, and licensing inquiries:
+
+**data@hollowhouse.org**
+
+---
+
+© Hollow House Institute. All rights reserved.
