@@ -1,27 +1,59 @@
-# Hollow House Institute
-## Structured Human Intelligence
+# Hollow House Institute — Website Source
 
-**Time turns behavior into infrastructure.**  
-**Behavior is the most honest data there is.**
+This repository contains the **source for the Hollow House Institute public website**.
 
----
-
-## Canonical Notice (Temporary)
-
-While the Hollow House Institute public website is offline, this repository serves as the **temporary canonical public authority** for Institute identity, scope, and governance references.
-
-Authoritative licensing and governance instruments are maintained at:
-
-https://github.com/hollowhouseinstitute/Master_License_Suite
+The site is a static content project built with Jekyll and deployed via GitHub Pages / Vercel for public presentation of governance frameworks, publications, and institutional identity.
 
 ---
 
-## Institute Mandate
+## Project Description
 
-Hollow House Institute is an independent governance and audit body focused on **longitudinal behavioral risk in AI systems**.
+**Purpose:**  
+Provide a clear, accessible public interface for Hollow House Institute’s mission:
+- longitudinal AI governance
+- relational behavior analysis
+- licensed datasets & frameworks
+- independent audit publications
 
-We examine how repeated AI use reshapes:
-- human judgment
+**Audience:**  
+- site visitors
+- academic and industry partners
+- auditors and regulators
+- internal maintainers
+
+---
+
+## Canonical Authority
+
+While the Hollow House Institute main website is under restoration, the **canonical repository authority** for governance, licensing, datasets, and audit artifacts is:
+
+**https://github.com/hollowhouseinstitute/Master_License_Suite**
+
+This repo hosts the **site source only**, not the governance authority.
+
+---
+
+## Technical Overview
+
+**Static Site Framework:**  
+- Jekyll static site generator  
+- Content authored in Markdown and HTML  
+- Uses GitHub Pages / Vercel for deployment
+
+**Build Requirements:**  
+- Ruby (see `.ruby-version`)
+- Jekyll (see `Gemfile`)
+- Bundler
+
+---
+
+## Development & Deployment
+
+### Local Development
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/hollowhouseinstitute/Hollow_House_Institute-site.git- human judgment
 - escalation behavior
 - accountability assignment
 - organizational decision-making
