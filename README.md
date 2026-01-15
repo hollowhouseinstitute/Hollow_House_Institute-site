@@ -41,7 +41,13 @@ While the Hollow House Institute main website is under restoration, the **canoni
 This repo hosts the **site source only**, not the governance authority.
 
 ---
+## Governance Definitions
 
+Key terms used in this repository (e.g., *behavioral drift*, *decision substitution*, *escalation decay*)
+are defined in the **HHI Governance Glossary**.
+
+Canonical definitions:
+https://github.com/hollowhouseinstitute/Hollow_House_Standards_Library/blob/main/glossary.md
 ## Technical Overview
 
 **Static Site Framework:**  
