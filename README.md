@@ -1,10 +1,19 @@
 # Hollow House Institute — Website Source
+**Hollow House Institute**  
+**Structured Human Intelligence**
+
+*Time turns behavior into infrastructure.*  
+*Behavior is the most honest data there is.*
 
 This repository contains the **source for the Hollow House Institute public website**.
 
 The site is a static content project built with Jekyll and deployed via GitHub Pages / Vercel for public presentation of governance frameworks, publications, and institutional identity.
 
----
+---> **Presentation Layer Notice**
+> This repository supports public-facing explanation and documentation only.
+> It is not a source of governance authority, licensing, or access rights.
+>
+> Canonical authority is maintained on GitHub by the Hollow House Institute.
 
 ## Project Description
 
