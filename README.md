@@ -135,3 +135,9 @@ Governance, audit, and licensing inquiries:
 ---
 
 © Hollow House Institute. All rights reserved.
+
+## Governance
+
+This repository inherits governance authority from the **HHI Governance Export — Core**.
+
+All execution, datasets, research, and audits are bound to its standards and constraints.
