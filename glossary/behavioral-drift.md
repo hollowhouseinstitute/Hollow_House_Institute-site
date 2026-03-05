@@ -6,47 +6,79 @@ description: Behavioral Drift is the gradual change from repeated human-AI inter
 last_updated: March 03, 2026
 ---
 
-# Behavioral Drift in AI Governance: The Invisible Infrastructure Killer
+---
+title: Behavioral Drift
+description: Behavioral Drift describes the gradual deviation between intended policy and actual behavior within organizations, institutions, or AI-governed systems.
+keywords: behavioral drift, governance drift, policy deviation, organizational behavior drift, governance failure
+author: Hollow House Institute
+---
 
-**Time turns behavior into infrastructure. Behavior is the most honest data there is.**
+# Behavioral Drift
 
 ## Definition
 
-Behavioral Drift is the gradual, accumulating change in human decision-making and judgment that occurs through repeated interaction with AI systems. It manifests as:
+**Behavioral Drift** refers to the gradual deviation between an organization's intended policies and the behaviors that occur in practice.
 
-- **Invisible erosion of critical judgment**
-- **Confidence reinforcement from consistent AI agreement**
-- **Authority decay through reliance normalization**
-- **Decision substitution without explicit policy change**
+Over time, repeated small deviations can accumulate and become normalized, resulting in operational behavior that no longer reflects the system’s original governance design.
 
-## Core Problem
-
-Behavioral drift is not captured in point-in-time audits, static benchmarks, or model evaluations. It emerges **over time** as a function of repeated interaction patterns, creating governance risk that traditional assessments miss.
-
-## Key Sections
-
-1. The Quiet Collapse No One Sees Coming
-2. Definition & Core Mechanism
-3. Symptoms & Early Warning Signs
-4. Authority Erosion Patterns
-5. Escalation Decay & Override Failure
-6. Normalization of Workarounds
-7. Identity Harm & Institutional Risk
-8. Measurement & Detection Framework
-9. Mitigation Strategies
-10. Governance Integration
-
-## Related Terms
-
-- [Stop Authority](https://github.com/hollowhouseinstitute/Hollow_House_Standards_Library/blob/main/glossary.md)
-- [Governance Debt](https://github.com/hollowhouseinstitute/Hollow_House_Standards_Library/blob/main/glossary.md)
-- [Escalation Decay](https://github.com/hollowhouseinstitute/Hollow_House_Standards_Library/blob/main/glossary.md)
-
-## Canonical Authority
-
-**Full definitions & governance framework:**  
-https://github.com/hollowhouseinstitute/Hollow_House_Standards_Library/blob/main/glossary.md
+Behavioral drift commonly appears in complex systems, institutions, and human–AI environments where oversight weakens or accountability structures become unclear.
 
 ---
 
-*Hollow House Institute — Structured Human Intelligence*
+## How Behavioral Drift Occurs
+
+Behavioral drift often develops through incremental changes rather than deliberate policy shifts. Typical drivers include:
+
+- unclear authority structures
+- normalization of temporary workarounds
+- weak accountability mechanisms
+- repeated policy exceptions
+- lack of enforcement or monitoring
+
+When these conditions persist, operational behavior begins to diverge from official governance frameworks.
+
+---
+
+## Indicators
+
+Signs that behavioral drift may be occurring include:
+
+- informal processes replacing official policy
+- inconsistent enforcement of rules
+- increasing reliance on “temporary” solutions
+- employees unsure about decision authority
+- repeated escalation without resolution
+
+---
+
+## Relationship to Other Governance Concepts
+
+Behavioral drift often interacts with other governance dynamics such as:
+
+- Governance Debt
+- Escalation Decay
+- Accountability Diffusion
+- Decision Boundary Failure
+
+These conditions can reinforce each other and accelerate governance breakdown.
+
+---
+
+## Why Behavioral Drift Matters
+
+Unchecked behavioral drift can lead to:
+
+- reduced operational clarity
+- slower decision making
+- increased organizational risk
+- erosion of trust in governance systems
+
+In AI-integrated environments, behavioral drift can also produce unintended system behavior when human oversight gradually weakens.
+
+---
+
+## Related Terms
+
+- Governance Debt  
+- Escalation Decay  
+- Stop Authority
