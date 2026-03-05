@@ -5,133 +5,73 @@ permalink: /glossary/stop-authority/
 description: Stop Authority is the institutional capacity to halt AI-driven decisions. HHI definition (v1.2.0).
 last_updated: March 03, 2026
 ---
+---
+title: Stop Authority
+description: Stop Authority is the formal power to halt operations or decisions when safety, governance, or risk thresholds are exceeded.
+keywords: stop authority, safety stop authority, governance stop power, authority to halt operations
+author: Hollow House Institute
+---
 
-# Stop Authority: The Right to Say No
-
-*Time turns behavior into infrastructure. Behavior is the most honest data there is.*
+# Stop Authority
 
 ## Definition
 
-**Stop Authority** refers to the institutional capacity, permission, and practical ability for a human to halt, reject, or escalate a decision driven by an AI system.
+**Stop Authority** is the formal power granted to an individual or role to halt a process, decision, or operation when safety or governance risks exceed acceptable thresholds.
 
-Stop authority is not a technical capability—it's a **governance permission**: the willingness of the organization to empower humans to override AI.
-
-## The Problem
-
-Stop authority **decays invisibly**:
-- It's never formally revoked
-- But the *cost* of exercising it increases
-- Until override becomes institutionally impossible
-
-## Manifestations of Decaying Stop Authority
-
-### Stage 1: Strong Stop Authority
-- Humans review all critical AI recommendations
-- Override decision is easy, cheap, and respected
-- "I disagree with the AI" is a valid escalation
-
-### Stage 2: Eroding Stop Authority
-- Humans review *most* recommendations
-- Override requires justification: "Why not the AI's choice?"
-- Burden of proof shifts to the human
-
-### Stage 3: Absent Stop Authority
-- Humans *could* override but don't
-- Override would require escalating to leadership
-- Cost of override > cost of accepting bad decision
-- **Stop authority exists on paper, not in practice**
+Stop authority exists to prevent irreversible harm in situations where continuing operations would create unacceptable risk.
 
 ---
 
-## Why Stop Authority Matters
+## Purpose
 
-Stop authority is your **last line of defense** against:
-- AI systematic errors
-- Governance drift
-- Institutional authority decay
-- Behavioral normalization
+Effective stop authority systems protect organizations by ensuring that risk signals can interrupt ongoing processes before damage occurs.
 
-When stop authority dies, you lose the ability to correct course.
+They are common in safety-critical industries including:
 
----
-
-## Measurement
-
-| Metric | Indicator |
-|--------|-----------|
-| **Override Rate** | % of AI recommendations that are actually challenged? |
-| **Override Cost** | Time, effort, political capital required to override? |
-| **Override Acceptance** | Is override treated as valid decision or failure? |
-| **Escalation Permission** | Can humans escalate without fear of punishment? |
-| **Authority Confidence** | Do humans believe they *can* override if needed? |
+- aviation
+- nuclear operations
+- healthcare
+- industrial manufacturing
 
 ---
 
-## Risk Scenarios
+## Requirements for Effective Stop Authority
 
-### Scenario A: Strong Stop Authority
-- AI recommends decision X
-- Human challenges: "This doesn't fit context Y"
-- System revises. Override is accepted as governance.
-- **Result: Healthy**
+A functional stop authority framework requires:
 
-### Scenario B: Decayed Stop Authority
-- AI recommends decision X
-- Human notices issue but doesn't challenge: "It's probably fine"
-- System proceeds. Human rationalizes.
-- **Result: Drift begins**
+- clearly defined triggering conditions
+- identified authority holders
+- protection from retaliation
+- rapid escalation channels
 
-### Scenario C: Dead Stop Authority
-- AI recommends decision X
-- Human sees the problem but can't override
-- System decides. Human has no recourse.
-- **Result: Governance failure**
+Without these protections, stop authority often becomes symbolic rather than operational.
 
 ---
 
-## Reinforcing Stop Authority
+## Organizational Benefits
 
-### 1. **Make Override Easy**
-Reduce the cost (time, effort, approval) of exercising override.
+When implemented correctly, stop authority helps organizations:
 
-### 2. **Celebrate Escalations**
-Treat challenges to AI decisions as governance strength, not weakness.
-
-### 3. **Audit Override Rates**
-Low override rates = decaying stop authority.
-
-### 4. **Institutional Permission Reset**
-Periodically affirm: "You have the right and responsibility to override if needed."
-
-### 5. **Train on Escalation Scenarios**
-Prepare teams to identify when override is necessary.
+- prevent systemic failures
+- respond quickly to emerging risk
+- maintain governance integrity
+- strengthen safety culture
 
 ---
 
-## Relationship to Other Pillars
+## Relationship to Other Governance Concepts
 
-| Related Concept | Connection |
-|-----------------|-----------|
-| **Escalation Decay** | Stop authority decays through repeated failed escalations |
-| **Behavioral Drift** | Weak stop authority *enables* behavioral drift |
-| **Governance Debt** | Deferred override decisions accumulate as governance debt |
+Stop authority is often activated in response to:
 
----
-
-## Canonical Authority
-
-**Full governance framework:**  
-→ [HHI Standards Library](https://github.com/hollowhouseinstitute/Hollow_House_Standards_Library/blob/main/glossary.md)
+- Behavioral Drift
+- Escalation Decay
+- Governance Debt
+- Decision Boundary Failure
 
 ---
 
-## Related Pillars
+## Related Terms
 
-→ [Behavioral Drift](/glossary/behavioral-drift/)  
-→ [Escalation Decay](/glossary/escalation-decay/)  
-→ [Governance Debt](/glossary/governance-debt/)  
-→ [Back to Glossary Hub](/glossary/)
-
----
-
-*Hollow House Institute — Structured Human Intelligence*
+- Behavioral Drift  
+- Governance Debt  
+- Escalation Decay
