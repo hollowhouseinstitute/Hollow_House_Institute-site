@@ -82,3 +82,18 @@ In AI-integrated environments, behavioral drift can also produce unintended syst
 - Governance Debt  
 - Escalation Decay  
 - Stop Authority
+## Behavioral Drift Development
+
+```mermaid
+flowchart LR
+
+A[Intended Policy]
+B[Minor Deviations]
+C[Repeated Exceptions]
+D[Workarounds Become Normal]
+E[Behavioral Drift]
+
+A --> B
+B --> C
+C --> D
+D --> E
